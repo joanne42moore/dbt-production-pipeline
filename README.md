@@ -1,2 +1,2 @@
 # dbt-production-pipeline
-Production-grade dbt pipeline with CI/CD, incremental models, automated testing, and live data ingestion from Open-Meteo API → BigQuery → Lightdash
+🚧 Active build — production-grade dbt pipeline with CI/CD, incremental models, and automated ingestion. Architecture and documentation coming as phases complete.
